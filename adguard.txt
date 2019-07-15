@@ -1,7 +1,9 @@
-||# Contact: support [at] disconnect.me^
-||# License: GPLv3^
-||101order.com^
+! Custom AdGuard Pro list for iOS by @jakejarvis.
+! Includes Disconnect.me's Malvertising rules.
+! https://github.com/jakejarvis/ios-trackers
+! Feedback: jake@jarv.is or https://jarv.is/
 
+||101order.com^
 ||123found.com^
 ||140proof.com^
 ||180hits.de^
@@ -2703,7 +2705,6 @@
 ||spot.fitness.com^
 ||spotxchange.com^
 ||sprinks-clicks.about.com^
-
 ||spylog.com^
 ||spywarelabs.com^
 ||spywarenuker.com^
