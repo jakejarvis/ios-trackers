@@ -442,3 +442,5 @@
 ||addthis.com^
 ||addthisedge.com^
 ||roosterfirework.com^
+||intercom.com^
+||intercom.io^

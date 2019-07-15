@@ -438,3 +438,4 @@ telemetry.mozilla.org
 addthis.com
 addthisedge.com
 roosterfirework.com
+intercom.io
