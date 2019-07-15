@@ -9,8 +9,10 @@ adkmob.com
 adlightning.com
 admantx.com
 adobedtm.com
+ads-nyj-nfl.yinzcam.com
 ads-resources-legacy.waze.com
 ads-resources.waze.com
+ads-trk.vidible.tv
 ads-twitter.com
 ads.internal.unity3d.com
 ads.tapdaq.com.cdn.cloudflare.net
@@ -43,6 +45,7 @@ apidn.net
 apigee.net
 app-analytics.snapchat.com
 app-measurement.com
+appboy-images.com
 appdynamics.com
 applifier.info
 applift.com
@@ -57,6 +60,8 @@ atemda.com
 atom-data.io
 b.yahoo.com
 bazaarvoice.com
+beacon.shazam.com
+beacon.shzcld.com
 beacons.gvt12.com
 betrad.com
 bfmio.com
@@ -78,6 +83,7 @@ casalemedia.com.edgekey.net
 channeladvisor.com
 chatra.io
 ci360.sas.com
+cintnetworks.com
 clearbit.com
 clicktale.net
 cogocast.net
@@ -131,6 +137,7 @@ flightrecorder.co
 flix360.com
 flixcar.com
 flixfacts.com
+fn-pz.com
 footmarks.com
 foresee.com
 foreseeresults.com
@@ -167,6 +174,7 @@ imasdk.googleapis.com
 indexww.com
 ingameads.gameloft.com
 inspectlet.com
+instabug.com
 intelematics.com
 internal-pixel-use101-lighttpd-elb-1202564112.us-east-1.elb.amazonaws.com
 ios.nccp.netflix.com
@@ -181,6 +189,7 @@ launchdarkly.com
 layer.com
 leanplum.com
 liveclicker.net
+livesegmentservice.com
 lkqd.net
 log.getdropbox.com
 log.gns.go.com
@@ -212,6 +221,7 @@ metrics.cvshealth.com
 metrics.fe.apple-dns.net
 metrics.foxnews.com
 metrics.icloud.com
+metrics.nfl.com
 metrics.tbliab.net
 metrics.washingtonpost.com
 metricscollector.lp.xcal.tv
@@ -297,6 +307,7 @@ service.cmp.oath.com
 servogram.io
 sessioncam.com
 sharethrough.com
+simpleanalytics.io
 simplereach.com
 singular.com
 singular.net
@@ -359,6 +370,7 @@ track.cj.akadns.net
 tracking.nextdoor.com
 treasuredata.com
 trk.vidible.tv
+tru.am
 truoptik.com
 trustarc.com
 truste.com
@@ -368,6 +380,7 @@ tune.com
 turn.com
 turn.com.akadns.net
 tvsquared.com
+umeng.com
 unityads.com
 unityads.unity3d.com
 unityads.us
@@ -395,6 +408,8 @@ xtify.com
 yap.yahoo.com
 yieldmo.com
 yieldoptimizer.com
+youboranqs01.com
 zendesk.com
+zergnet.com
 zineone.com
 zqtk.net
