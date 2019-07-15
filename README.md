@@ -11,6 +11,6 @@ Made for use with [Disconnect Pro for iOS](https://disconnect.me/) ([App Store](
 
 **Update as of July 2019:**
 
-For my personal use I have switched to [AdGuard Pro](https://adguard.com/en/adguard-ios-pro/overview.html) on iOS, which allows for more flexibility and doesn't have a few of the bugs that Disconnect Pro has (which I've reached out to the developers about in the meantime). AdGuard Pro allows for custom "subscription lists" that can be pulled and updated automatically, so I've included `adguard.txt` which is compliant with its [syntax rules](https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters). It also includes the built-in rules that Disconnect Pro does. You can add the following raw text URL in AdGuard's settings under subscriptions:
+For my personal use I have switched to [AdGuard Pro](https://adguard.com/en/adguard-ios-pro/overview.html) on iOS, which allows for more flexibility and doesn't have a few of the bugs that Disconnect Pro has (which I've reached out to the developers about in the meantime). AdGuard Pro allows for custom "subscription lists" that can be pulled and updated automatically, so I've included `adguard.txt` which is compliant with its [syntax rules](https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters). You can add the following raw text URL in AdGuard's settings under subscriptions:
 
 https://raw.githubusercontent.com/jakejarvis/ios-trackers/master/adguard.txt

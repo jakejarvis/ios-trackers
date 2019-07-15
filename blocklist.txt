@@ -172,11 +172,13 @@ id1.cn
 igodigital.com
 imasdk.googleapis.com
 indexww.com
+infonline.de
 ingameads.gameloft.com
 inspectlet.com
 instabug.com
 intelematics.com
 internal-pixel-use101-lighttpd-elb-1202564112.us-east-1.elb.amazonaws.com
+ioam.de
 ios.nccp.netflix.com
 iponweb.net
 iterable.com
@@ -185,6 +187,7 @@ keywee.co
 kiip.me
 kochava.com
 kontagent.net
+krxd.net
 launchdarkly.com
 layer.com
 leanplum.com
@@ -208,6 +211,7 @@ lyr8.net
 mads.amazon.com
 mantisadnetwork.com
 mantodea-production-1204681484.us-east-1.elb.amazonaws.com
+marketingcloudapis.com
 marketo.com
 maxads.io
 maxymiser.net
@@ -249,6 +253,8 @@ ninthdecimal.com
 notify.bugsnag.com
 npttech.com
 nr-data.net
+ogury.com
+ogury.io
 omnivirt.com
 omtrdc.net
 omtrdca.net
@@ -263,6 +269,7 @@ optimizely.com
 owneriq.net
 pagead-googlehosted.l.google.com
 parsely.com
+perfectmarket.com
 perimeterx.net
 permutive.com
 pippio.com
@@ -403,6 +410,7 @@ webtrends.com
 wisepops.com
 wsp.mgid.com
 www-googletagmanager.l.google.com
+wzrkt.com
 xdrig.com
 xtify.com
 yap.yahoo.com
