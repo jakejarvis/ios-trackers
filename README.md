@@ -19,6 +19,8 @@ Other subscriptions I use:
 
 https://raw.githubusercontent.com/jakejarvis/ios-trackers/master/adguard-disconnect-malvertising.txt
 
+https://raw.githubusercontent.com/jakejarvis/ios-trackers/master/adguard-disconnect-ad.txt
+
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt
 
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt
