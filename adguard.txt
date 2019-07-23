@@ -486,3 +486,4 @@
 ||tapjoy.com^
 ||usergrid.com^
 ||vungle.com^
+||wsimg.com^
