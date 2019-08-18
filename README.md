@@ -25,6 +25,6 @@ https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilte
 
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt
 
-https://github.com/AdguardTeam/AdguardFilters/blob/master/MobileFilter/sections/spyware.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/spyware.txt
 
-https://github.com/AdguardTeam/AdguardFilters/blob/master/MobileFilter/sections/adservers.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
