@@ -13,18 +13,18 @@ Made for use with [Disconnect Pro for iOS](https://disconnect.me/) ([App Store](
 
 For my personal use I have switched to [AdGuard Pro](https://adguard.com/en/adguard-ios-pro/overview.html) on iOS, which allows for more flexibility and doesn't have a few of the bugs that Disconnect Pro has (which I've reached out to the developers about in the meantime). AdGuard Pro allows for custom "subscription lists" that can be pulled and updated automatically, so I've included `adguard.txt` which is compliant with its [syntax rules](https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters). You can add the following raw text URL in AdGuard's settings under subscriptions:
 
-https://raw.githubusercontent.com/jakejarvis/ios-trackers/master/adguard.txt
+[https://jarv.is/ios-trackers/adguard.txt](https://jarv.is/ios-trackers/adguard.txt)
 
 Other subscriptions I use:
 
-https://raw.githubusercontent.com/jakejarvis/ios-trackers/master/adguard-disconnect-malvertising.txt
+[https://jarv.is/ios-trackers/adguard-disconnect-malvertising.txt](https://jarv.is/ios-trackers/adguard-disconnect-malvertising.txt)
 
-https://raw.githubusercontent.com/jakejarvis/ios-trackers/master/adguard-disconnect-ad.txt
+[https://jarv.is/ios-trackers/adguard-disconnect-ad.txt](https://jarv.is/ios-trackers/adguard-disconnect-ad.txt)
 
-https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt
+[https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt)
 
-https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt
+[https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt)
 
-https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/spyware.txt
+[https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/spyware.txt](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/spyware.txt)
 
-https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
+[https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt](https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt)
