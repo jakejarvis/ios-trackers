@@ -1,6 +1,7 @@
 ! Custom AdGuard Pro list for iOS by @jakejarvis.
 ! https://github.com/jakejarvis/ios-trackers
 ! Feedback: jake@jarv.is or https://jarv.is/
+! Updated: 2020-03-31T15:01:29+0000
 
 ||1rx.io^
 ||3lift.com^
@@ -46,7 +47,6 @@
 ||analytics.thescore.com^
 ||analytics.xcal.tv^
 ||apidn.net^
-||apigee.net^
 ||app-analytics.snapchat.com^
 ||app-measurement.com^
 ||appboy-images.com^
@@ -151,7 +151,6 @@
 ||gameanalytics.com^
 ||gemini.yahoo.com^
 ||getblueshift.com^
-||gigya.com^
 ||gimbal.com^
 ||glassboxcloud.com^
 ||go-mpulse.net^
@@ -263,7 +262,6 @@
 ||omtrdc.net^
 ||omtrdca.net^
 ||onelink.me^
-||onesignal.com^
 ||ooyala.com^
 ||ooyala.com.akadns.net^
 ||openx.net^
@@ -306,7 +304,6 @@
 ||sanalytics.tntdrama.com^
 ||sanalytics.verizon.com^
 ||sc-analytics.appspot.com^
-||scene7.com^
 ||segment.com^
 ||segment.io^
 ||sellpoint.net^
@@ -487,3 +484,11 @@
 ||usergrid.com^
 ||vungle.com^
 ||wsimg.com^
+||stats.ulysses.app^
+||sanalytics.disneyplus.com^
+||adtrack1.midasplayer.com^
+||cross-promo.mwx.ext.mobilityware.com^
+||metrics.aetn.com^
+||pixel.quantserve.net^
+||flurry.gycs.b.yahoodns.net^
+||s.gycs.b.yahoodns.net^

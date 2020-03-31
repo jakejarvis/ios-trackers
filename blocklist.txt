@@ -42,7 +42,6 @@ analytics.robinhood.com
 analytics.thescore.com
 analytics.xcal.tv
 apidn.net
-apigee.net
 app-analytics.snapchat.com
 app-measurement.com
 appboy-images.com
@@ -147,7 +146,6 @@ fusepowered.com
 gameanalytics.com
 gemini.yahoo.com
 getblueshift.com
-gigya.com
 gimbal.com
 glassboxcloud.com
 go-mpulse.net
@@ -259,7 +257,6 @@ omnivirt.com
 omtrdc.net
 omtrdca.net
 onelink.me
-onesignal.com
 ooyala.com
 ooyala.com.akadns.net
 openx.net
@@ -302,7 +299,6 @@ sanalytics.tbs.com
 sanalytics.tntdrama.com
 sanalytics.verizon.com
 sc-analytics.appspot.com
-scene7.com
 segment.com
 segment.io
 sellpoint.net
@@ -483,3 +479,11 @@ tapjoy.com
 usergrid.com
 vungle.com
 wsimg.com
+stats.ulysses.app
+sanalytics.disneyplus.com
+adtrack1.midasplayer.com
+cross-promo.mwx.ext.mobilityware.com
+metrics.aetn.com
+pixel.quantserve.net
+flurry.gycs.b.yahoodns.net
+s.gycs.b.yahoodns.net

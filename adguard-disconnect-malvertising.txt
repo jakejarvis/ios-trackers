@@ -1,5 +1,6 @@
 ! Contact: support [at] disconnect.me^
 ! License: GPLv3^
+! Modified from: https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 
 ||101order.com^
 ||123found.com^
