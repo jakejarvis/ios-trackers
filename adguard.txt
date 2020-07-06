@@ -1,7 +1,7 @@
 ! Custom AdGuard Pro list for iOS by @jakejarvis.
 ! https://github.com/jakejarvis/ios-trackers
 ! Feedback: jake@jarv.is or https://jarv.is/
-! Updated: 2020-03-31T15:01:29+0000
+! Updated: 2020-07-06T03:20:50+0000
 
 ||1rx.io^
 ||3lift.com^
@@ -492,3 +492,22 @@
 ||pixel.quantserve.net^
 ||flurry.gycs.b.yahoodns.net^
 ||s.gycs.b.yahoodns.net^
+||logs.roku.com^
+||services.brightline.tv^
+||e.reddit.com^
+||alb.reddit.com^
+||tentacles.smartocto.com^
+||adserver.snapads.com^
+||dl-debug.dropbox.com^
+||telemetry.dropbox.com^
+||telemetry.microsoft.com^
+||telemetry.mozilla.org^
+||improving.duckduckgo.com^
+||cstat.apple.com^
+||unagi-na.amazon.com^
+||cryptocompare.com^
+||logs.dashlane.com^
+||2cnt.net^
+||mobilenetworkscoring-pa.googleapis.com^
+||client-event-reporter.twitch.tv^
+||track.wattpad.com^
