@@ -1,7 +1,7 @@
 ! Custom AdGuard Pro list for iOS by @jakejarvis.
 ! https://github.com/jakejarvis/ios-trackers
 ! Feedback: jake@jarv.is or https://jarv.is/
-! Updated: 2020-07-06T03:20:50+0000
+! Updated: 2020-07-20T17:22:09+0000
 
 ||1rx.io^
 ||3lift.com^
@@ -557,3 +557,9 @@
 ||trackjs.com^
 ||clicks.beap.bc.yahoo.com^
 ||secure.footprint.net^
+||ad-tech.nbcuni.com^
+||fwmrm.net^
+||freewheel.com^
+||freewheel.tv^
+||spotx.tv^
+||triplelift.com^

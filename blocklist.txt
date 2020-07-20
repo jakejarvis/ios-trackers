@@ -552,3 +552,9 @@ addthis.com
 trackjs.com
 clicks.beap.bc.yahoo.com
 secure.footprint.net
+ad-tech.nbcuni.com
+fwmrm.net
+freewheel.com
+freewheel.tv
+spotx.tv
+triplelift.com
