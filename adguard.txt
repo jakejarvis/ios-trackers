@@ -563,3 +563,11 @@
 ||freewheel.tv^
 ||spotx.tv^
 ||triplelift.com^
+||perf.hsforms.com^
+||hs-scripts.com^
+||hs-analytics.net^
+||hs-growth-metrics.com^
+||track.hubspot.com^
+||cdn.ravenjs.com^
+||pendo.io^
+||getsentry.net^

@@ -162,7 +162,6 @@ heyzap.com
 hlserve.com
 hockeyapp.net
 hotjar.com
-hs-analytics.net
 hw-ads.datpiff.com
 iadc.qwapi.com
 iadsdk.apple.com
@@ -558,3 +557,11 @@ freewheel.com
 freewheel.tv
 spotx.tv
 triplelift.com
+perf.hsforms.com
+hs-scripts.com
+hs-analytics.net
+hs-growth-metrics.com
+track.hubspot.com
+cdn.ravenjs.com
+pendo.io
+getsentry.net
