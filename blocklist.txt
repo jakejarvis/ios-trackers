@@ -565,3 +565,10 @@ track.hubspot.com
 cdn.ravenjs.com
 pendo.io
 getsentry.net
+dxc.dxi-na1.saas.broadcom.com
+li9jiy.net
+sw88.go.com
+adsbynimbus.com
+log-va.tiktoktv.com
+analytic.rollout.io
+analytics.us.algolia.com
